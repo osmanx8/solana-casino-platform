@@ -63,4 +63,4 @@ MIT License. Feel free to fork, modify, and launch your own instance.
 
 > **Disclaimer:** Gambling may be restricted or illegal in your jurisdiction. Please use responsibly and ensure compliance with local regulations.\
 ---
-contact: https://telegram.com/ShadowRusii
+contact: https://telegram.com/web3_maxim
